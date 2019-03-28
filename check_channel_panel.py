@@ -1,8 +1,7 @@
 #!/home/hadoop/ops_scripts/ops_python2.7/bin/python
 
-# This script was written to check if the CHANNEL_PANEL_4M jobs # have completed. It sends a mail everyday at 9:30am PST to indicate success # or failure.
-#
-# last update: February 6, 2018
+# This script was written to check if some data processing jobs have completed. It sends an HTML-formatted email
+# to indicate the status
 
 import MySQLdb
 import sys
