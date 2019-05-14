@@ -1,7 +1,6 @@
 #!/usr/bin/perl use strict;
 
 # Author:  Chuck Pedro
-# Date:  May 22, 2007
 #
 # This program is written to parse persist log files, to be more readable.
 # There are four options; with  heartbeats, without heartbeats, and you can tail the log file,
